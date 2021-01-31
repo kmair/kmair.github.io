@@ -4235,3 +4235,12 @@ margin-right: 3%;
 .icon-background {
 	color: #272833;
 }
+
+/* New section hr */
+hr.new-sec {
+	border: 1px solid #e13652;
+}
+
+#sidebar {
+	padding: 100px;
+}
